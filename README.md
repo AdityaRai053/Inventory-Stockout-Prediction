@@ -79,5 +79,3 @@ To get started with the "inventory-forecast" system, follow the steps outlined i
    ```bash
    python inference.py
 
-## License
-This project is licensed under the MIT License. For more details, please refer to the LICENSE.md file.
